@@ -1,6 +1,6 @@
 # 📊 Amazon Sales Data Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on an Amazon sales dataset to uncover insights about product performance, customer purchasing behavior, and regional sales distribution.
 
@@ -8,7 +8,7 @@ The analysis was conducted using **Python in Google Colab**, utilizing powerful 
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset contains **10,000 sales records** with **21 attributes**, including order details, product information, pricing, and payment methods.
 
@@ -32,7 +32,7 @@ The dataset contains **10,000 sales records** with **21 attributes**, including 
 
 ---
 
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 
 * **Python**
 * **Pandas**
@@ -42,19 +42,19 @@ The dataset contains **10,000 sales records** with **21 attributes**, including 
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
-### 1️⃣ Data Loading
+### 1) Data Loading
 
 The dataset was loaded into a Python environment using Pandas.
 
-### 2️⃣ Data Cleaning
+### 2️) Data Cleaning
 
 * Checked for missing values
 * Converted date columns into datetime format
 * Verified data consistency
 
-### 3️⃣ Exploratory Data Analysis (EDA)
+### 3️) Exploratory Data Analysis (EDA)
 
 Performed analysis to understand:
 
@@ -62,7 +62,7 @@ Performed analysis to understand:
 * Product performance
 * Customer purchasing patterns
 
-### 4️⃣ Data Visualization
+### 4️) Data Visualization
 
 Created visualizations to better understand patterns and trends in the data.
 
@@ -79,7 +79,7 @@ Created visualizations to better understand patterns and trends in the data.
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * **Electronics, Fashion, and Home categories** generate the highest revenue.
 * A small number of **brands contribute significantly to total sales**.
@@ -89,7 +89,7 @@ Created visualizations to better understand patterns and trends in the data.
 
 ---
 
-## 📉 Visualizations Included
+##  Visualizations Included
 
 The project includes several visualizations such as:
 
@@ -100,7 +100,7 @@ The project includes several visualizations such as:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This analysis highlights important trends in Amazon sales data, including product performance, customer behavior, and regional sales patterns.
 
@@ -108,7 +108,7 @@ The insights derived from this analysis can help businesses make **data-driven d
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Bhargavi**
 
