@@ -1,4 +1,4 @@
-# Amazon Sales Data Analysis
+# 📊 Amazon Sales Data Analysis
 
 ## Project Overview
 This project performs exploratory data analysis on an Amazon sales dataset to identify trends in product performance, customer purchasing behavior, and regional sales distribution.
